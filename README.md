@@ -24,3 +24,8 @@ ___
 ## 4) Practica de vlan, archivo .pkt en la carpeta *vlan*
 
 ![imagencarpeta](/img/vlan.JPG)
+
+___
+## 5)segmentacion por ip, archivo .pkt y .xlsx en la carpeta *segmentacion_porIP*
+
+![imagencarpeta](/img/segmentacionip.JPG)
